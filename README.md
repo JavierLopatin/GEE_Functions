@@ -1,1 +1,1 @@
-# GEE_Functions-Functions_Java.js
+# A set of functions to work in Google Engine
